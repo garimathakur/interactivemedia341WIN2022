@@ -71,7 +71,7 @@ $('li').on('click', function () {
   if ($(this).attr('data-menu-option') === 'citations') {
     $('#mainframe').attr(
       'src',
-      'https://docs.google.com/document/d/1rtuUBjLEJxt3aUGojreyDmVk04in9GPnqKYYL_76sU0/edit?usp=sharing'
+      'https://docs.google.com/document/d/1qKNyYwXuLEijvDosSPg8XwQTaK5q5fRw/edit?usp=sharing&ouid=115629745580555138348&rtpof=true&sd=true'
     )
 
     $('#floatingimage').attr('src', './images/2.jpeg')
@@ -80,7 +80,7 @@ $('li').on('click', function () {
   if ($(this).attr('data-menu-option') === 'weeklywritings') {
     $('#mainframe').attr(
       'src',
-      'https://docs.google.com/document/d/1cx6ASD9igFrYebTUgRqU2RBY1JdOQW3MBECxLUUP-mg/edit?usp=sharing'
+      'https://docs.google.com/document/d/1BZgbETZo8Ikp8nBO_T9Gdwv39lOzSfON/edit?usp=sharing&ouid=115629745580555138348&rtpof=true&sd=true'
     )
     $('#floatingimage').attr('src', './images/2.jpeg')
   }
@@ -88,7 +88,7 @@ $('li').on('click', function () {
   if ($(this).attr('data-menu-option') === 'readingquestions') {
     $('#mainframe').attr(
       'src',
-      'https://docs.google.com/document/d/1tA9ZuvrOjfPRdkqq-vfvFf3dMWptiwn32KH5p9RAmgI/edit?usp=sharing'
+      'https://docs.google.com/document/d/16iTkUhohL5XEbfmR82G2FAmuckTk1QZQ/edit?usp=sharing&ouid=115629745580555138348&rtpof=true&sd=true'
     )
     $('#floatingimage').attr('src', './images/2.jpeg')
   }
@@ -96,7 +96,7 @@ $('li').on('click', function () {
   if ($(this).attr('data-menu-option') === 'readingquestions') {
     $('#mainframe').attr(
       'src',
-      'https://docs.google.com/document/d/1tA9ZuvrOjfPRdkqq-vfvFf3dMWptiwn32KH5p9RAmgI/edit?usp=sharing'
+      'https://docs.google.com/document/d/16iTkUhohL5XEbfmR82G2FAmuckTk1QZQ/edit?usp=sharing&ouid=115629745580555138348&rtpof=true&sd=true'
     )
     $('#floatingimage').attr('src', './images/2.jpeg')
   }
