@@ -30,7 +30,7 @@ $('li').on('click', function () {
   if ($(this).attr('data-menu-option') === 'people') {
     $('#mainframe').attr(
       'src',
-      'https://docs.google.com/document/d/119IPp5i1LEI5AUxb3Zyn-T7qkn0a1qQLlZX-NFFN0dU/edit?usp=sharing'
+      'https://docs.google.com/document/d/1k-X5TTYaaW5NANUnnLdhnG7K-1b1fPlr/edit?usp=sharing&ouid=115629745580555138348&rtpof=true&sd=true'
     )
     console.log($('#floatingimage').attr('src'))
     $('#floatingimage').attr('src', './images/1.jpeg')
@@ -52,7 +52,7 @@ $('li').on('click', function () {
   if ($(this).attr('data-menu-option') === 'resources') {
     $('#mainframe').attr(
       'src',
-      'https://docs.google.com/document/d/12f0Vk-f7X-_VryO5VjmzZpUZd4Sew4FiK3ctMO3CW6E/edit?usp=sharing'
+      'https://docs.google.com/document/d/1tZxF7Ahzl3amX9ihP_C1dklCZRP9-dqe/edit?usp=sharing&ouid=115629745580555138348&rtpof=true&sd=true'
     )
     console.log($('#floatingimage').attr('src'))
     $('#floatingimage').attr('src', './images/1.jpeg')
