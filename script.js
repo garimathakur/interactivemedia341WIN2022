@@ -4,14 +4,14 @@ $('li').on('click', function () {
   if ($(this).attr('data-menu-option') === 'home') {
     $('#mainframe').attr(
       'src',
-      'https://docs.google.com/document/d/1cP_8flvnhUIHZKtLkktonRB-OeQyxPHpTuhkKIRX3KA/edit?usp=sharing'
+      'https://docs.google.com/document/d/1_oxKracdDDsx98rdu5dwrfn2zq8A3KLc/edit?usp=sharing&ouid=115629745580555138348&rtpof=true&sd=true'
     )
     $('#floatingimage').attr('src', './images/khichdi.jpeg')
   }
   if ($(this).attr('data-menu-option') === 'syllabus') {
     $('#mainframe').attr(
       'src',
-      'https://docs.google.com/document/d/1g3xPbw3ijrOju7d2lavonhkSZraHUp4Xwv4OeZhHCm4/edit?usp=sharing'
+      'https://docs.google.com/document/d/1nsYvfCt--fhS4QS_4WBnC1DgDKLaxNUX/edit?usp=sharing&ouid=115629745580555138348&rtpof=true&sd=true'
     )
     $('#floatingimage').attr('src', './images/1.jpeg')
   }
@@ -19,7 +19,7 @@ $('li').on('click', function () {
   if ($(this).attr('data-menu-option') === 'calendar') {
     $('#mainframe').attr(
       'src',
-      'https://docs.google.com/document/d/1tbKiv-vZ7mY6f4fO09DSmA4WSzHj0PgPHTcQmWeKxWU/edit?usp=sharing'
+      'https://docs.google.com/document/d/1uoaYaJXrDENtRsEDRrg83XpdVI6T8Aue/edit?usp=sharing&ouid=115629745580555138348&rtpof=true&sd=true'
     )
     console.log($('#floatingimage').attr('src'))
     $('#floatingimage').attr('src', './images/8.jpeg')
