@@ -111,6 +111,13 @@ $('li').on('click', function () {
     )
     $('#floatingimage').attr('src', './images/2.jpeg')
   }
+  if ($(this).attr('data-menu-option') === 'classrecordings') {
+    $('#mainframe').attr(
+      'src',
+      'https://docs.google.com/document/d/1sB4zCfNDTuc6c3YNTN23xUpWJ8tww_w3_24SBNb3C54/edit?usp=sharing'
+    )
+    $('#floatingimage').attr('src', './images/2.jpeg')
+  }
 })
 
 $(document).ready(function () {
